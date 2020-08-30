@@ -10,8 +10,10 @@ make all
 ./bl_server server_name
 ```
 ### you can replace server_name by any names you choose to
-**A snapshot of working server**
+A snapshot of working server
+
 ![Image of server_01](https://github.com/le000043/network_simulation/blob/master/images/server_01.png)
+
 4. To start a client
 5. Open a new terminal
 6. type 
